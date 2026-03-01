@@ -15,7 +15,7 @@
 ## 核心玩法
 
 - **支持手机竖屏**：浏览器在手机竖屏下可正常游玩，无需横屏。
-- **v1.0.0-beta10 更新**：代码质量优化（shuffle、法术乘数、dayBoost 常量）；测试补充（174 用例、Vitest coverage、damage/round/spawn spec）；横屏基础适配、无障碍（aria-label、role）；文档完善（spells README、beta10 实现计划）。
+- **v1.0.0-beta11 更新**：项目优化（代码质量、魔数常量化、一致性、颜色变量、无障碍、ESC 关闭 Modal、loading 反馈）；性能优化（watch、图标 preload、Vite chunk 分割）；测试补充（achievements、factory、activityLog、data、composables，234 用例）；构建（覆盖率阈值）；changelog 数据化。
 
 ### 地图与探索
 
@@ -120,7 +120,7 @@
 
 ### 使用范围
 
-- **当前版本**：v1.0.0-beta10
+- **当前版本**：v1.0.0-beta11
 - **当前**：个人项目，非盈利用途
 - **部署**：通过 GitHub Pages 提供在线试玩
 - **开源**：本仓库及源码暂未开源
