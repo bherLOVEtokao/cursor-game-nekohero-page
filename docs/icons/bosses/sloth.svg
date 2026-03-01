@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- ???????? -->
+  <path d="M20 24 L16 14 M44 24 L48 14" fill="none" stroke="currentColor" stroke-width="1.5"/>
+  <!-- ?????? -->
+  <path d="M24 20 L22 12 M40 20 L42 12" fill="none" stroke="currentColor" stroke-width="1.5"/>
+  <!-- ????? -->
+  <path d="M16 32 L48 32 L48 48 L16 48 Z" fill="none" stroke="currentColor" stroke-width="1.5"/>
+  <!-- ?????? -->
+  <path d="M24 36 L32 36 M36 36 L44 36" fill="none" stroke="currentColor" stroke-width="1.5"/>
+  <!-- ????? -->
+  <path d="M28 44 L36 44" fill="none" stroke="currentColor" stroke-width="1"/>
+  <!-- Z Z Z ?? -->
+  <path d="M50 20 L52 24 L54 20 M54 26 L56 30 L58 26" fill="none" stroke="currentColor" stroke-width="1"/>
+</svg>
